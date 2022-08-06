@@ -13,5 +13,19 @@ PySpark to extract the dataset, transform the data, connect to AWS RDS instance 
 Google Colab to import PySpark libraries and connect to Postgres in order to create SQL tables and export the results.
 Of the datasets.
 
+Results:
+
+Figure 1:
+
+![image](https://user-images.githubusercontent.com/101227930/183248253-5860fe8a-b2cc-4537-ad24-d151d6bea438.png)
+
+FIgure 2:
+
+![image](https://user-images.githubusercontent.com/101227930/183248265-232537d3-88ea-4bf9-a2f0-f324ebdf8225.png)
+
+
+Figure 3:
+
+![image](https://user-images.githubusercontent.com/101227930/183248274-04576f8e-4673-42e0-be50-5367d985a7a4.png)
 
 
