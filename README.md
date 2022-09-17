@@ -13,6 +13,7 @@ Resources:
 PySpark to extract the dataset, transform the data, connect to AWS RDS instance and load the transformed data into pgAdmin.
 Google Colab to import PySpark libraries and connect to Postgres in order to create SQL tables and export the results of the datasets.
 
+
 Results:
 
 Figure 1: 
