@@ -18,6 +18,7 @@ Google Colab to import PySpark libraries and connect to Postgres in order to cre
 
 Results:
 
+
 Figure 1: 
 
 ![image](https://user-images.githubusercontent.com/101227930/183268928-3463f6d6-fa3f-4420-87bf-d0ec49c423f0.png)
