@@ -1,8 +1,6 @@
 Amazon_Vine_Analysis
 
-
 Overview
-
 
 The purpose of this project is to analyze Amazon reviews written by members of the paid Amazon Vine program, a service that allows manufacturers and publishers to receive reviews of their products and determine if there are any biases between Vine members and Non-Vine member's reviews.
 
@@ -28,7 +26,6 @@ Figure 2:
 Figure 3:
 
 ![image](https://user-images.githubusercontent.com/101227930/183268943-9571cc82-67ad-41ee-bbb4-58bb27b55ea3.png)
-
 
 
 Contact:
